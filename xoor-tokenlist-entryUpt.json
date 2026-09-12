@@ -1,0 +1,14 @@
+{
+  "chainId": 1,
+  "address": "0xAA6e631165B357979aB5bFc76f9042241241e785",
+  "name": "Xoora",
+  "symbol": "XOOR",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/engrkelvinlevieltengfah-droid/xoor/main/xoor-logo.png",
+  "tags": [],
+  "extensions": {
+    "twitter": "https://x.com/XooRa2024",
+    "telegram": "https://t.me/Xoora",
+    "description": "XooRa (XOOR) — fixed-supply ERC-20 token on Ethereum."
+  }
+}
